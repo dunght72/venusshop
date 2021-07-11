@@ -1,0 +1,6 @@
+﻿{
+  "DataConnectionString": "server=localhost;database=venusshop_akd1x;allowuservariables=True;user id=root;password=Dung0702",
+  "DataProvider": "mysql",
+  "SQLCommandTimeout": null,
+  "RawDataSettings": {}
+}
